@@ -1,0 +1,8 @@
+{
+  "appId": "fr.mescources.app",
+  "appName": "Mes cources",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
